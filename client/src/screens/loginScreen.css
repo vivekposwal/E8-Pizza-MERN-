@@ -1,0 +1,7 @@
+.ls {
+  min-height: 90vh;
+  display: flex;
+  background-image: url("./pizzalogin.jpg");
+  background-position: center;
+  background-size: cover;
+}
